@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="выучил в уроке 11 как с йамлом работать">
-      <change afterPath="$PROJECT_DIR$/Lesson 11 YAML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YAML_read_test.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YAML_write_test.yaml" afterDir="false" />
+    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="чтото сделал">
+      <change afterPath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV/Lesson 11 DZ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 11 YAML, JSON, CSV" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746976788786</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="чтото сделал">
+      <option name="closed" value="true" />
+      <created>1746986583255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746986583255</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +176,7 @@
     <MESSAGE value="начал урок 11" />
     <MESSAGE value="начал урок 11 зааддил его" />
     <MESSAGE value="выучил в уроке 11 как с йамлом работать" />
-    <option name="LAST_COMMIT_MESSAGE" value="выучил в уроке 11 как с йамлом работать" />
+    <MESSAGE value="чтото сделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="чтото сделал" />
   </component>
 </project>
