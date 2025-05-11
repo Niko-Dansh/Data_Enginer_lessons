@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="начал урок 11 зааддил его">
+    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="выучил в уроке 11 как с йамлом работать">
+      <change afterPath="$PROJECT_DIR$/Lesson 11 YAML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YAML_read_test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YAML_write_test.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746565018964</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="выучил в уроке 11 как с йамлом работать">
+      <option name="closed" value="true" />
+      <created>1746976788786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746976788786</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +165,7 @@
     <MESSAGE value="добавил старый проект до гита все файлы" />
     <MESSAGE value="начал урок 11" />
     <MESSAGE value="начал урок 11 зааддил его" />
-    <option name="LAST_COMMIT_MESSAGE" value="начал урок 11 зааддил его" />
+    <MESSAGE value="выучил в уроке 11 как с йамлом работать" />
+    <option name="LAST_COMMIT_MESSAGE" value="выучил в уроке 11 как с йамлом работать" />
   </component>
 </project>
