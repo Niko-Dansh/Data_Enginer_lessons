@@ -1,0 +1,23 @@
+[
+    {
+        "age": 28,
+        "kek": true,
+        "languages": "Python",
+        "name": "Никита"
+    },
+    {
+        "json_name": "Анна",
+        "json_age": 28,
+        "json_city": "Москва"
+    },
+    {
+        "json_name": "Иван",
+        "json_age": 35,
+        "json_city": "Санкт-Петербург"
+    },
+    {
+        "json_name": "Ольга",
+        "json_age": 22,
+        "json_city": "Новосибирск"
+    }
+]
