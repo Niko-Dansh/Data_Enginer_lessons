@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "terms": "https://currencylayer.com/terms",
+    "privacy": "https://currencylayer.com/privacy",
+    "historical": true,
+    "date": "2023-11-01",
+    "timestamp": 1698883199,
+    "source": "USD",
+    "quotes": {
+        "USDEUR": 0.944745,
+        "USDRUB": 92.610099
+    }
+}

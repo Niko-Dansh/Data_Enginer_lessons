@@ -4,10 +4,128 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="чтото сделал">
-      <change afterPath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV/Lesson 11 DZ classes.py" afterDir="false" />
+    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="выполненный 11 урок">
+      <change afterPath="$PROJECT_DIR$/Geodesy/1 этаж выгрузка.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/GRO Nick 2.0.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/GRO Nick 2.0.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/KER.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/STAJ.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/adjust_heighs_Mtext_text_for_%.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/clean_dwg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/dwg_to_txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/extract_points_labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/extract_points_labels_fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/flatten_and_cleanup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/split_CSV_with_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/split_sdr_with_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/Марки Корп 6 Nick.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/Марки Корп 6 Nick.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/новые марки Nik 11.5 проверка.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/новые марки Nik 11.5 проверка.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/новые марки Nik 11.5.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geodesy/новые марки Nik 11.5.dwg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/Lesson 12 API exchange rate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/Lesson12_dont_work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/api_currencylayer_historical_2023-11-01_test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/Курс валют 2023-11-01 - 2023-11-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/Курс валют 2023-11-01 - 2023-11-30.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/csv_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/currency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/data/cities_with_currency.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/Lesson 13 BIG DZ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Aktobe_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Almaty_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Chelyabinsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Chicago_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Dnipro_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Donetsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Gomel_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Grodno_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Haifa_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Houston_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Jerusalem_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Karaganda_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Kazan_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Kharkiv_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Krasnoyarsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Kyiv_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Los Angeles_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Minsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Mogilev_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Moscow_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Moscow_current_weather.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/New York_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Nizhny Novgorod_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Novosibirsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Nur-Sultan_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Odesa_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Omsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Perm_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Petah Tikva_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Philadelphia_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Rishon LeZion_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Rostov-on-Don_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Saint Petersburg_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Samara_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Shymkent_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Tel Aviv_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Ufa_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Vitebsk_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Voronezh_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/json archive/Yekaterinburg_curr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/old/урок 13 сопоставление стан с валютами.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 13： requests, POST/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 16 Linux VDS/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 16 Linux VDS/monitorix.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17 Linux запускаем Python и systemd/print_1_per_1s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/app/csv_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/app/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Utils2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random things programmed/Bundle_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV/Lesson 11 DZ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 11 YAML, JSON, CSV/Lesson 11 DZ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday!!!.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random things programmed/Birthday!!!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 5 Функции/Bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1 Знакомство + базовые типы/DZ 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 4 Циклы/Lesson 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 9 pip import.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Lesson 9 pip import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2 Коллекции, dict/Lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8 try-exept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8 Try Exept/Lesson8 try-exept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1 Знакомство + базовые типы/Lesson_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nastia №1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1 Знакомство + базовые типы/Nastia №1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming task generator for Obsidian.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random things programmed/Programming task generator for Obsidian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testik_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test files/Testik_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils2/Human.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Utils2/Human.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils2/Polk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Utils2/Polk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils2/Rota.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 9 import, pip install/Utils2/Rota.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 17 Weather API Prj for deploy/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heart.scr" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/heart.scr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 3 Условный оператор/lesson 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1 Знакомство + базовые типы/lesson1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2 Коллекции, dict/lesson2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6 classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 6 Классы, наследование/lesson6 classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7 with chat_gpt_mini.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7 public, private поля/lesson7 with chat_gpt_mini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7_publlic_protected_private.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7 public, private поля/lesson7_publlic_protected_private.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 5 Функции/lesson_5_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make_heart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/make_heart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random entity(4 letters max).py" beforeDir="false" afterPath="$PROJECT_DIR$/Random things programmed/random entity(4 letters max).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_shift_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/random_shift_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_shift_points_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/random_shift_points_move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tESTIK_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test files/tESTIK_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test files/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test files/test_empty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testik_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test files/testik_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Дела_работа.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random things programmed/Дела_работа.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +168,50 @@
 }</component>
   <component name="ProjectId" id="2wXyRSGAyYCB9g4D06GwOXYXgI5" />
   <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lesson 11 DZ classes.executor": "Run",
-    "Python.Lesson 11 DZ.executor": "Run",
-    "Python.Lesson 11 YAML, JSON, CSV.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Test__Nick",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bundle_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 YAML, JSON, CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 12 API exchange rate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 13 BIG DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 9 pip import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adjust_heighs_Mtext_text_for_%.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_dwg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.currency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dwg_to_txt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flatten_and_cleanup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.урок 13 сопоставление стан с валютами.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Test__Nick&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/naunn/PycharmProjects/Data_Enginer_lessons/Random things programmed&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 17 Weather API Prj for deploy" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Geodesy" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons" />
       <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 11 YAML, JSON, CSV" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 17 Weather API Prj for deploy\app" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Random things programmed" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 17 Weather API Prj for deploy" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\" />
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons" />
     </key>
   </component>
   <component name="SharedIndexes">

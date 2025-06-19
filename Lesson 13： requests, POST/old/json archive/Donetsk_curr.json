@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Donetsk",
+        "region": "Rostov",
+        "country": "Russia",
+        "lat": 48.3403,
+        "lon": 39.9558,
+        "tz_id": "Europe/Moscow",
+        "localtime_epoch": 1749391254,
+        "localtime": "2025-06-08 17:00"
+    },
+    "current": {
+        "last_updated_epoch": 1749391200,
+        "last_updated": "2025-06-08 17:00",
+        "temp_c": 32.1,
+        "temp_f": 89.7,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 6.7,
+        "wind_kph": 10.8,
+        "wind_degree": 13,
+        "wind_dir": "NNE",
+        "pressure_mb": 1015.0,
+        "pressure_in": 29.98,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 34,
+        "cloud": 13,
+        "feelslike_c": 31.9,
+        "feelslike_f": 89.5,
+        "windchill_c": 32.1,
+        "windchill_f": 89.7,
+        "heatindex_c": 31.9,
+        "heatindex_f": 89.5,
+        "dewpoint_c": 14.3,
+        "dewpoint_f": 57.7,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.8,
+        "gust_mph": 8.4,
+        "gust_kph": 13.6
+    }
+}

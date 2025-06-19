@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Nizhny Novgorod",
+        "region": "Novgorod",
+        "country": "Russia",
+        "lat": 56.33,
+        "lon": 44.0,
+        "tz_id": "Europe/Moscow",
+        "localtime_epoch": 1749391344,
+        "localtime": "2025-06-08 17:02"
+    },
+    "current": {
+        "last_updated_epoch": 1749391200,
+        "last_updated": "2025-06-08 17:00",
+        "temp_c": 29.3,
+        "temp_f": 84.7,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 8.3,
+        "wind_kph": 13.3,
+        "wind_degree": 203,
+        "wind_dir": "SSW",
+        "pressure_mb": 1013.0,
+        "pressure_in": 29.91,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 45,
+        "cloud": 0,
+        "feelslike_c": 31.7,
+        "feelslike_f": 89.1,
+        "windchill_c": 26.6,
+        "windchill_f": 79.9,
+        "heatindex_c": 27.8,
+        "heatindex_f": 82.1,
+        "dewpoint_c": 18.1,
+        "dewpoint_f": 64.5,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.5,
+        "gust_mph": 13.2,
+        "gust_kph": 21.3
+    }
+}
