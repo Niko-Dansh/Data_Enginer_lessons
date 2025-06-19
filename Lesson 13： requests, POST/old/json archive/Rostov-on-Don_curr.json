@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Rostov-On-Don",
+        "region": "Rostov",
+        "country": "Russia",
+        "lat": 47.2364,
+        "lon": 39.7139,
+        "tz_id": "Europe/Moscow",
+        "localtime_epoch": 1749391107,
+        "localtime": "2025-06-08 16:58"
+    },
+    "current": {
+        "last_updated_epoch": 1749390300,
+        "last_updated": "2025-06-08 16:45",
+        "temp_c": 33.5,
+        "temp_f": 92.2,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 8.9,
+        "wind_kph": 14.4,
+        "wind_degree": 39,
+        "wind_dir": "NE",
+        "pressure_mb": 1014.0,
+        "pressure_in": 29.96,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 28,
+        "cloud": 22,
+        "feelslike_c": 32.8,
+        "feelslike_f": 91.1,
+        "windchill_c": 33.5,
+        "windchill_f": 92.2,
+        "heatindex_c": 32.8,
+        "heatindex_f": 91.1,
+        "dewpoint_c": 12.7,
+        "dewpoint_f": 54.8,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 3.5,
+        "gust_mph": 10.7,
+        "gust_kph": 17.3
+    }
+}

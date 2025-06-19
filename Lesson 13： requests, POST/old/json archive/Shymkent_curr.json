@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Shymkent",
+        "region": "South Kazakhstan",
+        "country": "Kazakhstan",
+        "lat": 42.3,
+        "lon": 69.6,
+        "tz_id": "Asia/Almaty",
+        "localtime_epoch": 1749391112,
+        "localtime": "2025-06-08 18:58"
+    },
+    "current": {
+        "last_updated_epoch": 1749390300,
+        "last_updated": "2025-06-08 18:45",
+        "temp_c": 33.2,
+        "temp_f": 91.8,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 12.8,
+        "wind_kph": 20.5,
+        "wind_degree": 315,
+        "wind_dir": "NW",
+        "pressure_mb": 1013.0,
+        "pressure_in": 29.91,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 20,
+        "cloud": 0,
+        "feelslike_c": 31.1,
+        "feelslike_f": 87.9,
+        "windchill_c": 34.7,
+        "windchill_f": 94.4,
+        "heatindex_c": 32.8,
+        "heatindex_f": 91.0,
+        "dewpoint_c": 3.6,
+        "dewpoint_f": 38.5,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.7,
+        "gust_mph": 14.7,
+        "gust_kph": 23.6
+    }
+}

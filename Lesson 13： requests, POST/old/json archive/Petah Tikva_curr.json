@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Tikva",
+        "region": "Serbia (general)",
+        "country": "Serbia",
+        "lat": 43.4706,
+        "lon": 19.7922,
+        "tz_id": "Europe/Belgrade",
+        "localtime_epoch": 1749391357,
+        "localtime": "2025-06-08 16:02"
+    },
+    "current": {
+        "last_updated_epoch": 1749391200,
+        "last_updated": "2025-06-08 16:00",
+        "temp_c": 27.9,
+        "temp_f": 82.2,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 6.9,
+        "wind_kph": 11.2,
+        "wind_degree": 239,
+        "wind_dir": "WSW",
+        "pressure_mb": 1013.0,
+        "pressure_in": 29.92,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 39,
+        "cloud": 3,
+        "feelslike_c": 27.6,
+        "feelslike_f": 81.7,
+        "windchill_c": 27.9,
+        "windchill_f": 82.2,
+        "heatindex_c": 27.6,
+        "heatindex_f": 81.7,
+        "dewpoint_c": 12.5,
+        "dewpoint_f": 54.5,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 4.6,
+        "gust_mph": 8.0,
+        "gust_kph": 12.9
+    }
+}

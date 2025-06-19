@@ -1,0 +1,40 @@
+city,currency
+Moscow,RUB
+Saint Petersburg,RUB
+Novosibirsk,RUB
+Yekaterinburg,RUB
+Nizhny Novgorod,RUB
+Kazan,RUB
+Chelyabinsk,RUB
+Omsk,RUB
+Samara,RUB
+Rostov-on-Don,RUB
+Ufa,RUB
+Krasnoyarsk,RUB
+Voronezh,RUB
+Perm,RUB
+Almaty,KZT
+Nur-Sultan,KZT
+Shymkent,KZT
+Karaganda,KZT
+Aktobe,KZT
+Kyiv,UAH
+Kharkiv,UAH
+Odesa,UAH
+Dnipro,UAH
+Donetsk,UAH
+Minsk,BYN
+Gomel,BYN
+Mogilev,BYN
+Vitebsk,BYN
+Grodno,BYN
+Tel Aviv,ILS
+Jerusalem,ILS
+Haifa,ILS
+Rishon LeZion,ILS
+Petah Tikva,ILS
+New York,USD
+Los Angeles,USD
+Chicago,USD
+Houston,USD
+Philadelphia,USD
