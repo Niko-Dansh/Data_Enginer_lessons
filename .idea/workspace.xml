@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="выполненный 12-17 уроки наконецто">
+    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="Merge pull request #4 from Niko-Dansh/Test_Nick&#10;&#10;Test nick">
+      <change afterPath="$PROJECT_DIR$/Random things programmed/ping_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_21_postgresql_2/lesson_21_scripts.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Niko-Dansh &lt;niko.dansh@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -52,41 +59,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Bundle_code.executor": "Run",
-    "Python.DZ 1.executor": "Run",
-    "Python.Lesson 11 DZ classes.executor": "Run",
-    "Python.Lesson 11 DZ.executor": "Run",
-    "Python.Lesson 11 YAML, JSON, CSV.executor": "Run",
-    "Python.Lesson 12 API exchange rate.executor": "Run",
-    "Python.Lesson 13 BIG DZ.executor": "Run",
-    "Python.Lesson 9 pip import.executor": "Run",
-    "Python.Lesson12.executor": "Run",
-    "Python.adjust_heighs_Mtext_text_for_%.executor": "Run",
-    "Python.clean_dwg.executor": "Run",
-    "Python.csv_utils.executor": "Run",
-    "Python.currency.executor": "Run",
-    "Python.dwg_to_txt.executor": "Run",
-    "Python.flatten_and_cleanup.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.урок 13 сопоставление стан с валютами.executor": "Run",
-    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Test__Nick",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/naunn/PycharmProjects/Data_Enginer_lessons",
-    "settings.editor.selected.configurable": "database.query.execution"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bundle_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 YAML, JSON, CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 12 API exchange rate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 13 BIG DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 9 pip import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adjust_heighs_Mtext_text_for_%.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_dwg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.currency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dwg_to_txt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flatten_and_cleanup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.урок 13 сопоставление стан с валютами.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Test__Nick&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/naunn/PycharmProjects/Data_Enginer_lessons/lesson_21_postgresql_2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\lesson_21_postgresql_2" />
       <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Lesson 17 Weather API Prj for deploy" />
       <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons\Geodesy" />
       <recent name="C:\Users\naunn\PycharmProjects\Data_Enginer_lessons" />
@@ -235,6 +243,8 @@
     <MESSAGE value="выучил в уроке 11 как с йамлом работать" />
     <MESSAGE value="чтото сделал" />
     <MESSAGE value="выполненный 12-17 уроки наконецто" />
-    <option name="LAST_COMMIT_MESSAGE" value="выполненный 12-17 уроки наконецто" />
+    <MESSAGE value="сделал урок 20" />
+    <MESSAGE value="Merge pull request #4 from Niko-Dansh/Test_Nick&#10;&#10;Test nick" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #4 from Niko-Dansh/Test_Nick&#10;&#10;Test nick" />
   </component>
 </project>
