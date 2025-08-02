@@ -4,30 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="Сделал урок 21">
-      <change afterPath="$PROJECT_DIR$/Karpov SQL Simulator/lesson_3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собес тест кодинга.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Poe 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Poe 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Poe fin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Poe.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Вопросы — Ответы.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 22.5 Mock собеседование - 040725/Mock собеседование - Вопросы.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random things programmed/floats_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 22 SQL нормализация таблиц, SELECT, WHERE/lesson 22 SQL.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 22 SQL нормализация таблиц, SELECT, WHERE/lesson_22_3FN.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_23 Union/lesson_23.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_24_join/lesson_24_join.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FibonacciGridWX/scripts/pipeline_test.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data_Enginer_lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Enginer_lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d0ff7a32-125b-48e3-be5b-517f110db4b0" name="Changes" comment="доделал pipeline от weather_raw в weather_analytics_daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/Geodesy/GRO Корп 6 Nick 2.0.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 12 Requests, GET/Lesson12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random things programmed/ping_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random things programmed/ping_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_21_postgresql_2/lesson_21_scripts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_21_postgresql_2/lesson_21_scripts.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/scripts/tables_creation.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciGridWX/scripts/tables_creation.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciGridWX/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/app/get_weather_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciGridWX/app/get_weather_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciGridWX/app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/scripts/Bundle_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciGridWX/scripts/Bundle_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FibonacciGridWX/scripts/all_code.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +41,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../FibonacciGridWX" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -84,41 +68,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Bundle_code.executor": "Run",
-    "Python.DZ 1.executor": "Run",
-    "Python.Lesson 11 DZ classes.executor": "Run",
-    "Python.Lesson 11 DZ.executor": "Run",
-    "Python.Lesson 11 YAML, JSON, CSV.executor": "Run",
-    "Python.Lesson 12 API exchange rate.executor": "Run",
-    "Python.Lesson 13 BIG DZ.executor": "Run",
-    "Python.Lesson 9 pip import.executor": "Run",
-    "Python.Lesson12.executor": "Run",
-    "Python.Mock собес тест кодинга.executor": "Run",
-    "Python.adjust_heighs_Mtext_text_for_%.executor": "Run",
-    "Python.clean_dwg.executor": "Run",
-    "Python.csv_utils.executor": "Run",
-    "Python.currency.executor": "Run",
-    "Python.dwg_to_txt.executor": "Run",
-    "Python.flatten_and_cleanup.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.урок 13 сопоставление стан с валютами.executor": "Run",
-    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Niko__dev",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/naunn/PycharmProjects/FibonacciGridWX/scripts",
-    "settings.editor.selected.configurable": "database.query.execution"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bundle_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DZ 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 11 YAML, JSON, CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 12 API exchange rate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 13 BIG DZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 9 pip import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mock собес тест кодинга.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adjust_heighs_Mtext_text_for_%.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_dwg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.currency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dwg_to_txt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flatten_and_cleanup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.урок 13 сопоставление стан с валютами.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Niko__dev&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/naunn/PycharmProjects/FibonacciGridWX/scripts&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\naunn\PycharmProjects\FibonacciGridWX\scripts" />
@@ -273,6 +257,7 @@
     <MESSAGE value="сделал урок 20" />
     <MESSAGE value="Merge pull request #4 from Niko-Dansh/Test_Nick&#10;&#10;Test nick" />
     <MESSAGE value="Сделал урок 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал урок 21" />
+    <MESSAGE value="доделал pipeline от weather_raw в weather_analytics_daily" />
+    <option name="LAST_COMMIT_MESSAGE" value="доделал pipeline от weather_raw в weather_analytics_daily" />
   </component>
 </project>
